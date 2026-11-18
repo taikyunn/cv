@@ -19,7 +19,7 @@
 | 領域 | 技術・経験 |
 | --- | --- |
 | バックエンド | PHP / Laravel、Go / Echo |
-| フロントエンド | Vue / Nuxt / TypeScript：約4年、React / Next.js：約1年 |
+| フロントエンド | Vue / Nuxt / TypeScript、React / Next.js |
 | インフラ | AWS、Terraform、Docker |
 | AWS利用経験 | ECS / Fargate、Aurora PostgreSQL、ElastiCache、S3、CloudFront、WAF |
 | 主な開発領域 | 認証基盤、サービス間データ連携、管理画面、インフラ構築・運用 |
